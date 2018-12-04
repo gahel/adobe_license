@@ -1,1 +1,1 @@
-# munkireport
+# Adobe License MunkiReport module
